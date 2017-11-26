@@ -1,0 +1,24 @@
+{
+  "name": "electron-app-bolierplate",
+  "version": "1.0.0",
+  "description": "electron-app-bolierplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirkarnez/electron-app-bolierplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirkarnez/electron-app-bolierplate/issues"
+  },
+  "homepage": "https://github.com/dirkarnez/electron-app-bolierplate#readme",
+  "devDependencies": {
+    "electron": "^1.7.9",
+    "electron-builder": "^19.46.4",
+    "electron-packager": "^10.1.0"
+  }
+}
